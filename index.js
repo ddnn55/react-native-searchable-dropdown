@@ -7,7 +7,7 @@ import {
   TouchableOpacity,
   Keyboard
 } from 'react-native';
-import {ListView} from 'deprecated-react-native-listview';
+import ListView from 'deprecated-react-native-listview';
 
 const ds = new ListView.DataSource({ rowHasChanged: (r1, r2) => r1 !== r2 });
 
