@@ -27,5 +27,8 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/zubairpaizer/react-native-searchable-dropdown.git"
+  },
+  "dependencies": {
+    "deprecated-react-native-listview": "^0.0.9"
   }
 }
